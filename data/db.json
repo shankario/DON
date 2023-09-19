@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "programming",
+      "body": "understanding programming",
+      "author": "abdi",
+      "id": 1
+    },
+    {
+      "title": "programming language",
+      "body": "we have various  programming languages",
+      "author": "abdi",
+      "id": 2
+    },
+    {
+      "title": "javascript",
+      "body": "javascript is used for",
+      "author": "abdi",
+      "id": 3
+    },
+    {
+      "title": "wordpress",
+      "author": "Med",
+      "body": "New entry blog on wordpress",
+      "id": 4
+    },
+    {
+      "title": "web",
+      "author": "john",
+      "body": "new web",
+      "id": 5
+    }
+  ]
+}
